@@ -4,5 +4,11 @@
     "description": "A tool allowing you to find the desired combo for the card Numbers Eveil",
     "image": "https://pikashi974.github.io/Tierlist/src/img/20994205.jpg",
     "link": "./Numbers-Evaille"
+  },
+  {
+    "name": "Tierlist",
+    "description": "An easy way to make a tierlist with Yu-Gi-Oh card images",
+    "image": "https://pikashi974.github.io/Tierlist/src/img/19763315.jpg",
+    "link": "./Tierlist"
   }
 ]
