@@ -10,5 +10,11 @@
     "description": "An easy way to make a tierlist with Yu-Gi-Oh card images",
     "image": "https://pikashi974.github.io/Tierlist/src/img/19763315.jpg",
     "link": "./Tierlist"
+  },
+  {
+    "name": "Yu-Gi-Oh converter",
+    "description": "A page to convert a deck list from text into a YPR file",
+    "image": "https://pikashi974.github.io/Tierlist/src/img/90659259.jpg",
+    "link": "./yugioh-converter"
   }
 ]
