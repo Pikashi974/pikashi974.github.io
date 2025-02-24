@@ -13,7 +13,7 @@
   },
   {
     "name": "Yu-Gi-Oh converter",
-    "description": "A page to convert a deck list from text into a YPR file",
+    "description": "A page to convert a deck list from text into a YDK file",
     "image": "https://pikashi974.github.io/Tierlist/src/img/90659259.jpg",
     "link": "./yugioh-converter"
   }
